@@ -8,4 +8,4 @@
 Patrickrice3838/Patrickrice3838 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I'm interested in learning new code and apps to write CC Plus Code and learning how to create use pull requests I was born and raised in Detroit Michigan I'm a person of interest you very much and ethical hacking
+I'm interested in learning new code and apps to write CC Plus Code and learning how to create an use pull requests I was born and raised in Detroit Michigan I'm a person of interest very much with ethical hacking
